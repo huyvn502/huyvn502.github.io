@@ -1,0 +1,1 @@
+document.getElementById("root").innerHTML = "<h2>This is heading 2</h2>"
